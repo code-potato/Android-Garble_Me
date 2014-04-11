@@ -23,14 +23,11 @@ local.properties
 .project
 
 # Android Studio
-.idea
-#.idea/workspace.xml - uncomment this and comment/delete .idea if it better suit your needs
-.gradle
+.idea/workspace.xml # - uncomment this and comment/delete .idea if it better suit your needs
 /*/local.properties
 /*/out
 /*/*/build
 /*/*/production
-*.iml
 *.iws
 *.ipr
 *~
